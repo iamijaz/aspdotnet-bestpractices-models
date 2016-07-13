@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "after", "after", "{E5939074
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateMePlease", "1-aspdotnet-bestpractices-models-m1-exercise-files\before\PleaseDateMe\DateMePlease\DateMePlease.csproj", "{21B572E4-45E2-4DD5-9C46-0513DEFD680D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateMePlease", "1-aspdotnet-bestpractices-models-m1-exercise-files\after\PleaseDateMe\DateMePlease\DateMePlease.csproj", "{D4657939-CB92-4A91-B345-492C72F26837}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{21B572E4-45E2-4DD5-9C46-0513DEFD680D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21B572E4-45E2-4DD5-9C46-0513DEFD680D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21B572E4-45E2-4DD5-9C46-0513DEFD680D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4657939-CB92-4A91-B345-492C72F26837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4657939-CB92-4A91-B345-492C72F26837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4657939-CB92-4A91-B345-492C72F26837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4657939-CB92-4A91-B345-492C72F26837}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,5 +32,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{E5939074-F425-4E6C-ACB7-C4EC3AD0AD5D} = {04736D2C-FA62-4E9B-8EF5-00488DD78992}
 		{21B572E4-45E2-4DD5-9C46-0513DEFD680D} = {04736D2C-FA62-4E9B-8EF5-00488DD78992}
+		{D4657939-CB92-4A91-B345-492C72F26837} = {E5939074-F425-4E6C-ACB7-C4EC3AD0AD5D}
 	EndGlobalSection
 EndGlobal
