@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-aspdotnet-bestpractices-models-m1-exercise-files", "1-aspdotnet-bestpractices-models-m1-exercise-files", "{04736D2C-FA62-4E9B-8EF5-00488DD78992}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "after", "after", "{E5939074-F425-4E6C-ACB7-C4EC3AD0AD5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateMePlease", "1-aspdotnet-bestpractices-models-m1-exercise-files\before\PleaseDateMe\DateMePlease\DateMePlease.csproj", "{21B572E4-45E2-4DD5-9C46-0513DEFD680D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B572E4-45E2-4DD5-9C46-0513DEFD680D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B572E4-45E2-4DD5-9C46-0513DEFD680D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B572E4-45E2-4DD5-9C46-0513DEFD680D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B572E4-45E2-4DD5-9C46-0513DEFD680D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E5939074-F425-4E6C-ACB7-C4EC3AD0AD5D} = {04736D2C-FA62-4E9B-8EF5-00488DD78992}
+		{21B572E4-45E2-4DD5-9C46-0513DEFD680D} = {04736D2C-FA62-4E9B-8EF5-00488DD78992}
+	EndGlobalSection
+EndGlobal
